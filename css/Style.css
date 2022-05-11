@@ -117,7 +117,7 @@ body{
   border:0px none;
   width: 60%;
   margin: 3% 20% 0 20%;
-
+  border-width: 0.5vw;
 }
 
 .film_name{
